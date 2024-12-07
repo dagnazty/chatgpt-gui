@@ -1,0 +1,1 @@
+PyQt5 openai tiktoken python-dotenv tenacity
