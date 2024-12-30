@@ -4,3 +4,5 @@ chatgpt_handler.log
 exports/12.6.24.8.30
 /sessions
 .env
+fetch_metrics.out
+payload.json
